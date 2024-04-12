@@ -10,8 +10,14 @@ This project consists of a deep learning model trained on a dataset of cat and d
 
 The dataset used for training and testing the classifier consists of thousands of labeled images of cats and dogs. It is divided into two main folders: one for training and another for testing. Each folder contains subfolders corresponding to the two classes: cats and dogs. This meticulously curated dataset ensures that the model learns to generalize well and achieve high performance on unseen data.
 
-**Note:** Due to the size limitations of GitHub repositories, the dataset is not included in this repository. However, you can easily obtain similar datasets from various online sources or create your own dataset for experimentation.
+**Note:** Due to the size limitations of GitHub repositories, the dataset is uploaded as Zip files make unzip it while executing. However, you can easily obtain similar datasets from various online sources or create your own dataset for experimentation.
 
+## Links to Download Source Code & Datasets
+### Kaggle : 
+https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification
+### Drive Access : 
+https://drive.google.com/drive/folders/1fe78T6dtHZdBxylT_u392zidHwiDwrLg?usp=sharing
+### Source Code : Uploaded soon!
 
 ## Usage
 
